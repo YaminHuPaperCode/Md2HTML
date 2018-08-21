@@ -1,5 +1,5 @@
 # Md2HTML
-#### __Md2HTML is a converter from markdown to HTML which supports using of:__
+#### __Md2HTML is a converter from markdown to HTML which supports:__
 
  - headers 
  - paragraphs
